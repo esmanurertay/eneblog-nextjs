@@ -1,0 +1,28 @@
+
+[
+    {
+      "id": 1,
+      "title": "Uncovering Your Position",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "author": "John Silves",
+      "role": "Writer",
+      "image": "/assets/images/slider-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Finding Clarity",
+      "content": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "author": "Jane Doe",
+      "role": "Editor",
+      "image": "/assets/images/slider-1.png"
+    },
+    {
+      "id": 3,
+      "title": "Innovative Solutions",
+      "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "author": "Emily Stone",
+      "role": "Designer",
+      "image": "/assets/images/slider-1.png"
+    }
+  ]
+  
